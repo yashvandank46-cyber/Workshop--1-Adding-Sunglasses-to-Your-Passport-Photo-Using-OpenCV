@@ -137,3 +137,9 @@ plt.imshow(faceWithGlassesArithmetic[:,:,::-1])
 plt.title("With Sunglasses")
 ```
 # Output
+<img width="490" height="543" alt="image" src="https://github.com/user-attachments/assets/99ae5713-09e0-4661-ade5-3d0135eb2e5e" />
+<img width="683" height="353" alt="image" src="https://github.com/user-attachments/assets/07813b4f-19fb-4591-9e90-e667146ab524" />
+<img width="1392" height="243" alt="image" src="https://github.com/user-attachments/assets/4980a413-73a3-4a82-88a8-85640cb27f83" />
+<img width="497" height="517" alt="image" src="https://github.com/user-attachments/assets/3b6eb399-eb18-45c6-a073-611dc9796b9c" />
+![Uploading image.png…]()
+
