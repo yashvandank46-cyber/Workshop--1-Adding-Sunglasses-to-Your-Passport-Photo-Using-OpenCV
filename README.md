@@ -141,5 +141,6 @@ plt.title("With Sunglasses")
 <img width="683" height="353" alt="image" src="https://github.com/user-attachments/assets/07813b4f-19fb-4591-9e90-e667146ab524" />
 <img width="1392" height="243" alt="image" src="https://github.com/user-attachments/assets/4980a413-73a3-4a82-88a8-85640cb27f83" />
 <img width="497" height="517" alt="image" src="https://github.com/user-attachments/assets/3b6eb399-eb18-45c6-a073-611dc9796b9c" />
-![Uploading image.png…]()
+<img width="1390" height="165" alt="Screenshot 2026-11-23 155613" src="https://github.com/user-attachments/assets/4f34becf-c18d-4a81-bda2-4d372cf4c1ca" />
+
 
